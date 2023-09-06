@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5e6df96039b263d4c877b8a0c4c41b37
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VNI-Souvir
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a2e66525a85d8db43895ee99cba8ed5d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
